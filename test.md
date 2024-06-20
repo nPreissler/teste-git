@@ -7,3 +7,5 @@ let nome = ['nestor', 'nÈstor'];
 alert(nome[1]);
 ```
 ## tentando novamente. its hard
+
+bug
